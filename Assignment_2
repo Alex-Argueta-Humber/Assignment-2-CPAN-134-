@@ -1,0 +1,26 @@
+<header>
+    <h1>Website Title</h1>
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <section id="about">
+       <p> We make websites </p>
+    </section>
+    <section id="services">
+       <p> Website </p>
+       <p> App </p>
+    </section>
+    <section id="contact">
+        <p> Phone Number </p>
+        <p> Email </p>
+    </section>
+</main>
+<footer>
+   
+</footer>
