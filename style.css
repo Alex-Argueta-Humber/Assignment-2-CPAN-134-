@@ -1,0 +1,12 @@
+button:hover {
+    background-color: #ff0000;
+    color: #ffffff;
+    transition: background-color 0.3s, color 0.3s;
+}
+@media (max-width: 768px) {
+    /* Styles for tablets and mobile devices */
+}
+
+@media (max-width: 480px) {
+    /* Styles for mobile devices */
+}
